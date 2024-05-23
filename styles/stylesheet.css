@@ -613,6 +613,10 @@ body {
     max-width: 120px;
   }
 
+  .skills-box-header {
+    font-size: 0.9rem;
+  }
+  
   .empty-box {
     min-width: 130px;
     max-width: 120px;
